@@ -14,6 +14,7 @@ UI::~UI() {
 
 void UI::show() {
     int a = 0;
+    int b = 0;
 }
 
 void UI::hide() {
