@@ -30,3 +30,7 @@ void UI::update() {
 void UI::render() {
     // Render the UI
 }
+
+int main() {
+    return 0;
+}
