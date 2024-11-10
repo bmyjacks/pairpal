@@ -7,6 +7,7 @@
 
 UI::UI() {
     std::cout << "UI created" << std::endl;
+    int a = 1;
 }
 
 UI::~UI() {
