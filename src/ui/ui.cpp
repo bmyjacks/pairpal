@@ -3,9 +3,10 @@
 //
 
 #include "ui/ui.hpp"
+#include <iostream>
 
 UI::UI() {
-    // Constructor
+    std::cout << "UI created" << std::endl;
 }
 
 UI::~UI() {
