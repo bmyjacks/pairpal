@@ -7,6 +7,7 @@
 
 UI::UI() {
     std::cout << "UI created" << std::endl;
+    int a = 1;
 }
 
 UI::~UI() {
@@ -28,4 +29,8 @@ void UI::update() {
 
 void UI::render() {
     // Render the UI
+}
+
+int main() {
+    return 0;
 }
