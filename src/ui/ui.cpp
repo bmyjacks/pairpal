@@ -13,7 +13,8 @@ UI::~UI() {
 }
 
 void UI::show() {
-    // Show the UI
+    int a = 0;
+    int b = 0;
 }
 
 void UI::hide() {
